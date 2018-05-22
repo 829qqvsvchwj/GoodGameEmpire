@@ -1,6 +1,9 @@
 # GoodGameEmpire
 Host GoodGame Empire on your site easily.
 
+# Working instance
+https://empire.tylerhoban.com/
+
 # Tutorial
 Here's how to install this on your site
 
